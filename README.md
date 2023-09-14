@@ -8,7 +8,9 @@
 - controller
 
 spring web
+
 Spring Data JPA
 
 postgreSQL drive
+
 Spring Boot DevTools
